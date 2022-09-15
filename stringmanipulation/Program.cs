@@ -22,7 +22,7 @@ namespace stringmanipulation
             if (string.IsNullOrEmpty(s1))
             {
                 op1 = "";
-                return s1;
+                return s2;
             }
             if (string.IsNullOrEmpty(s2))
             {
